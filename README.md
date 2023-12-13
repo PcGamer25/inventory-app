@@ -1,4 +1,4 @@
-# Inventory App
+# Inventory Application
 inventory-app is an inventory management program built using JavaFX that provides a user interface for managing an inventory of parts and products.
 ## Features
 ### Inventory Overview
